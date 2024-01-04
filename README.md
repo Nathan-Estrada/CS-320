@@ -8,7 +8,7 @@ In order to ensure that my code is functional and secure, I utilized practices o
 
 * How do I interpret user needs and incorporate them into a program?
 
-In order to interpret user needs and incorporate them into the program, I carefully analyze any functionality requests from the client, as well as any provided user stories. Once I have a clear vision on what functionality the program will require, I develop code based off of the requirements and insure that they match by conducting frequent testing by running the code, as well as running automated tests using testing frameworks such as Junit. 
+In order to interpret user needs and incorporate them into the program, I carefully analyze any functionality requests from the client, as well as any provided user stories. Once I have a clear vision on what functionality the program will require, I develop code based off of the requirements and ensure that they match by conducting frequent testing by running the code, as well as running automated tests using testing frameworks such as Junit. 
 
 * How do I approach designing software?
   
